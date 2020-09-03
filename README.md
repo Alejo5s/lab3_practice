@@ -8,4 +8,4 @@ string boy_name = "Alejandro"
 string activity = " is practicing how to use ";
 
 cout << boy_name << activity + "GitHub"; 
-return 0;
+return 0; what
